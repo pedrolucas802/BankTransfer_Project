@@ -1,0 +1,20 @@
+Transaction 0:
+Account of origin Info:  Bank ID: 213; Agency ID: 321; Account ID: 3214
+Account of Destiny Info:  Bank ID: 645; Agency ID: 765; Account ID: 4123
+Transaction Value: 500.0 yyyy/MM/dd HH:mm:ss-> 2021/09/21 08:43:50
+Transaction 0:
+Account of origin Info:  Bank ID: 213; Agency ID: 321; Account ID: 3214
+Account of Destiny Info:  Bank ID: 645; Agency ID: 765; Account ID: 4123
+Transaction Value: 460.0 2021/09/21 08:44:45
+Transaction 0:
+Account of origin Info:  Bank ID: 213; Agency ID: 321; Account ID: 3214
+Account of Destiny Info:  Bank ID: 645; Agency ID: 765; Account ID: 4123
+Transaction Value: 454.0; Data: 2021/09/21 08:53:22
+Transaction 0:
+Account of origin Info:  Bank ID: 213; Agency ID: 321; Account ID: 3214
+Account of Destiny Info:  Bank ID: 645; Agency ID: 765; Account ID: 4123
+Transaction Value: 500.0; Data: 2021/09/21 17:23:42
+Transaction 0:
+Account of origin Info:  Bank ID: 213; Agency ID: 321; Account ID: 3214
+Account of Destiny Info:  Bank ID: 987; Agency ID: 879; Account ID: 9678
+Transaction Value: 500.0; Data: 2021/10/23 17:18:04
